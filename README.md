@@ -3,12 +3,11 @@ A simple PSF waveform data to HDF5 converter
 
 For now just an experiement to test, whether...
 
-1. The HDF5 format can be usefull
-2. The HDF5 format is comparable to pdf storage-wise
-3. a potientiel converter can be performant
+1. The HDF5 format can be useful
+2. The HDF5 format is equally efficient compared to psf storage-wise
+3. the conversion process can be performed in acceptable time for large datasets
 
 This program is so trivial, that i am not even sure a release is useful, but maybe it can be extended.
-
 
 ### Dependencies
 
